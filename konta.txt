@@ -1,0 +1,6 @@
+400.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 Kamil Nowak qmil123 haslo123
+3273.25 208.85 58.48 194.5 0.0 0.0 123.0 0.0 0.0 0.0 0.0 Adam Kowalski kowal123 pass123
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 Stefan Bąk baczul123 haslo123
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 Rafał Padiasek rajfał123 haslo123
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 Klaudia Kowalska-Nowak kwiatek róża20
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 Rafał Nowak rafal123 haslo123
